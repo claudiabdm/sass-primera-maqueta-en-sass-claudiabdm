@@ -1,0 +1,16 @@
+//---------------------------------------------
+// BASE
+//---------------------------------------------
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  color: #fff;
+  background-color: #fff;
+  line-height: 1.2;
+}
+
+input::placeholder {
+  color: #c7c7cd;
+  font-size: 0.938rem;
+  font-weight: 500;
+}
